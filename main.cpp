@@ -1,5 +1,5 @@
 #include <iostream>
-int main(){
-	int a =10;
+int main(){`
+       std::cout<<"jfdjhdf"<<std::endl;
 	std::cout<<"hei"<<std::endl;
 }
