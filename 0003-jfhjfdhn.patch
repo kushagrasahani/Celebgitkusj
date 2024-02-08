@@ -1,0 +1,22 @@
+From 220e06c112ad9af9b462a6d74f24c1119611ccc3 Mon Sep 17 00:00:00 2001
+From: kushagrasahani <sahanikushagra@gmail.com>
+Date: Wed, 7 Feb 2024 04:29:49 -0800
+Subject: [PATCH 3/3] jfhjfdhn
+
+---
+ main.cpp | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/main.cpp b/main.cpp
+index 3408340..27746f3 100644
+--- a/main.cpp
++++ b/main.cpp
+@@ -1,4 +1,5 @@
+ #include <iostream>
+ int main(){
++	int a =10;
+ 	std::cout<<"hei"<<std::endl;
+ }
+-- 
+2.43.0.windows.1
+
